@@ -6,4 +6,4 @@ The project was carried out as part of DME-2016/17 course at the University of E
 
 Please read the project report for further explanation, results and conclusions of New York's commercial flights performance.
 
-
+https://cloud.githubusercontent.com/assets/26325978/26285091/244762b4-3e51-11e7-8fb0-5371b1fe1994.jpg
